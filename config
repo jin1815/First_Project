@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[gui]
+	wmstate = normal
+	geometry = 1611x877+49+49 342 400
+[remote "origin"]
+	url = https://github.com/jin1815/First_Project.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[use]
+	name = hyunjin
+[user]
+	email = liaka@naver.com
